@@ -126,6 +126,10 @@ textarea {
     height: 20px;
     padding: 2px 2px;
 }
+
+.resumeHeader {
+    color: pink;
+}
 .resume-text{
     margin-top: 45px;
     margin-bottom: 25px;

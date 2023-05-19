@@ -6,12 +6,12 @@ import marvel from '../../images/marvelDatabase.png';
 import password from '../../images/passwordGenerator.png';
 import work from '../../images/workdayScheduler.png';
 import note from '../../images/noteTaker.png';
-import starWars from '../../images/starWars.jpeg';
+import starWars from '../../images/starWars.png';
 
 export default function Portfolio() {
-    return (
-        <div className="container col-10 row justify-content-center mx-auto my-5 p-5 rendered">
-            <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
+  return (
+    <div className="container col-10 row justify-content-center mx-auto my-5 p-5 rendered">
+      <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
         <img
           className="mx-auto proj-img"
           src={pokedex}
@@ -188,7 +188,7 @@ export default function Portfolio() {
           </a>
           <a
             className="col-1"
-            href="https://github.com/shaboon/symmetrical-robot"
+            href="https://interstellar-index.herokuapp.com/"
           >
             <img
               src={link}
@@ -198,7 +198,7 @@ export default function Portfolio() {
           </a>
         </div>
       </article>
-      
-      </div>
-    )
+
+    </div>
+  )
 }
