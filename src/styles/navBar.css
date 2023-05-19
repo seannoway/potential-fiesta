@@ -1,4 +1,51 @@
-.navbar {
+.navbar{
     height: 200px;
     background-image: url('/public/navbar.jpg');
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    
 }
+
+.headerText{
+    font-size: 75px;
+    margin-left: 55px;
+    font-family: 'Playfair Display', serif;
+    color: rgb(0, 0, 0);
+   
+}
+
+.nav-item{
+    font-size: 35px;
+    /* padding-left: 20px;
+    padding-right: 50px; */
+    font-family: 'Playfair Display', serif;
+   
+}
+
+.nav{
+    margin-right: 5px;
+}
+
+.nav-item a{
+    color: rgb(255, 255, 255);
+}
+
+.nav-item:hover {
+    text-decoration: underline white;
+    color: black;
+}
+
+.nav-item a:hover{
+    color: black;
+}
+
+
+.nav-item a:visited{
+    color: white;
+}
+
+
+.nav-link.active {
+    filter: opacity(50%);
+}
+

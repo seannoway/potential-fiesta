@@ -1,0 +1,182 @@
+html {
+    background-color:  #2b2b2b;
+
+}
+
+body {
+    background-color:  #2b2b2b;
+    color: white;
+}
+
+.container-fluid{
+    background-color:  #2b2b2b;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-weight: lighter;
+}
+
+.section{
+    background-color:  #2b2b2b;
+    color: white;
+
+}
+
+.footer{
+    background-color:  #2b2b2b;
+    position: absolute;
+    width: 10%;
+}
+.contactForm{
+    width: 500px;
+    font-size: 20px;
+}
+
+.form-input{
+    width: 600px;
+    margin-bottom: 25px;
+    
+}
+
+textarea {
+    height: 150px;
+}
+
+.postBtn{
+    width: 600px;
+    height: 45px;
+}
+
+.profile{
+    margin-top: 15px;
+    margin-left: 20px;
+    width: 155px;
+    height: 160px;
+    border-radius: 50%
+}
+
+.Containers{
+    padding-left: 250px;
+    padding-top: 25px;
+    padding-right: 250px;
+    background-color:  #2b2b2b;
+}
+
+.aboutMeHeader{
+    font-family: 'Playfair Display', serif;
+    color: whitesmoke;
+    
+}
+
+.aboutMeContent{
+    font-size: 25px;
+    text-align: left;
+}
+
+.portfolio-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.contact-title{
+    font-family: 'Playfair Display', serif;
+}
+
+.resume-title{
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 0;
+}
+
+.work-content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 40px;
+    padding-top: 20px;
+}
+
+.portfolio{
+    background-color:  #2b2b2b;
+}
+
+.portfolioContainers{
+    padding-left: 250px;
+    padding-top: 25px;
+    padding-right: 5px;
+    background-color:  #2b2b2b;
+}
+
+.github-logo{
+    width: 100px;
+    height: 100px;
+    filter: opacity(50%);
+}
+
+.twitter-logo{
+    margin-left: 15px;
+    filter: invert(94%) sepia(99%) saturate(2%) hue-rotate(315deg) brightness(95%) contrast(101%);
+}
+
+
+.twitter-logo:hover{
+    filter: invert(94%) sepia(99%) saturate(2%) hue-rotate(315deg) brightness(1100%) contrast(101%);
+}
+
+.footer-logo{
+    width: 70px;
+    height: 70px;
+    filter: invert(94%) sepia(99%) saturate(2%) hue-rotate(315deg) brightness(50%) contrast(101%);
+}
+
+.footer-logo:hover{
+    width: 70px;
+    height: 70px;
+    filter: invert(94%) sepia(99%) saturate(2%) hue-rotate(315deg) brightness(108%) contrast(101%);
+}
+
+.portfolio-logo{
+    width: 100px;
+    height: 100px;
+    filter: opacity(100%);
+}
+
+.resume-text{
+    margin-top: 45px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+.back-end{
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.front-end{
+    font-size: 25px;
+}
+
+.back-end-title{
+    font-size: 45px;
+}
+
+.front-end-title{
+    font-size: 45px;
+}
+
+.foot {
+    height: 200px;
+    position: relative;
+}
+.github-logo:hover{
+    filter: opacity(100%);
+}
+
+.github-logo {
+    size: 100px;
+}
+
+.icon {
+    width: 6%;
+    justify-content: center;
+}
+
+.profilePic {
+    width: 18%
+}
