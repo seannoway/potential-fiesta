@@ -15,7 +15,7 @@ export default function PortfolioPage() {
         }
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
-        } 
+        }
         if (currentPage === 'Resume') {
             return <Resume />;
         }
@@ -25,14 +25,14 @@ export default function PortfolioPage() {
     const handlePageChange = (page) => setCurrentPage(page);
 
     return (
-        <div>
-        <div className=''>
-            <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
-        </div>
+        <div className="bodyColor">
+            <div className=''>
+                <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
+            </div>
             {renderPage()}
             <div className='foot'>
-            <Footer />
+                <Footer />
             </div>
-        </div>
+        </ div>
     );
 }

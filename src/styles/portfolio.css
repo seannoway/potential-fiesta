@@ -21,6 +21,11 @@ body {
 
 }
 
+.bodyColor {
+    background-color:  #2b2b2b
+
+}
+
 .footer{
     background-color:  #2b2b2b;
     position: absolute;
@@ -85,13 +90,6 @@ textarea {
     margin-bottom: 0;
 }
 
-.work-content{
-    display: flex;
-    flex-wrap: wrap;
-    gap: 40px 40px;
-    padding-top: 20px;
-}
-
 .portfolio{
     background-color:  #2b2b2b;
 }
@@ -136,26 +134,10 @@ textarea {
     font-size: 25px;
 }
 
-.back-end{
-    margin-bottom: 0;
-    font-size: 25px;
-}
-
-.front-end{
-    font-size: 25px;
-}
-
-.back-end-title{
-    font-size: 45px;
-}
-
-.front-end-title{
-    font-size: 45px;
-}
-
 .foot {
     height: 200px;
     position: relative;
+    background-color: #2b2b2b;
 }
 .github-logo:hover{
     filter: opacity(100%);
@@ -172,4 +154,14 @@ textarea {
 
 .profilePic {
     width: 18%
+}
+
+.resumeLink {
+    text-decoration: none;
+    color: white
+}
+
+.resLink {
+    text-decoration: none;
+    color: white;
 }

@@ -9,7 +9,8 @@ export default function Resume() {
                 <div className='row'>
                     <div className='col-4'>
                         <h2 className='resumeLink'>
-                            <a href={"https://drive.google.com/file/d/1E2_AHUL1B9vcxBNHpckahOJyyNSBHXaE/view?usp=share_link"} target='_blank'>
+                            <a href={"https://drive.google.com/file/d/1E2_AHUL1B9vcxBNHpckahOJyyNSBHXaE/view?usp=share_link"} target='_blank' 
+                            rel="noreferrer"className="resLink">
                                 Link to Full Resume
                             </a>
                         </h2>
