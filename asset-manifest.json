@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4fffdee2.css",
-    "main.js": "/react-portfolio/static/js/main.021a2535.js",
-    "static/media/marvelDatabase.png": "/react-portfolio/static/media/marvelDatabase.f80233280bce11fd40b9.png",
-    "static/media/navbar.jpg": "/react-portfolio/static/media/navbar.bd0272c891fef8c342f2.jpg",
-    "static/media/profile-pic.JPG": "/react-portfolio/static/media/profile-pic.f2fbe9d15c537f4e6e50.JPG",
-    "static/media/starWars.png": "/react-portfolio/static/media/starWars.d7ade0f6f2cf05981fa8.png",
-    "static/media/workdayScheduler.png": "/react-portfolio/static/media/workdayScheduler.898f5c50af9c30d83143.png",
-    "static/media/passwordGenerator.png": "/react-portfolio/static/media/passwordGenerator.d42dbbf00a3a0c7a2ef8.png",
-    "static/media/noteTaker.png": "/react-portfolio/static/media/noteTaker.4c8c3cd6ab703b209c63.png",
-    "static/media/pokedex.png": "/react-portfolio/static/media/pokedex.5ae946def886ee06b2f0.png",
-    "static/media/2021 Twitter logo - white.png": "/react-portfolio/static/media/2021 Twitter logo - white.27cda7bdfce3369a30e8.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.4fffdee2.css.map": "/react-portfolio/static/css/main.4fffdee2.css.map",
-    "main.021a2535.js.map": "/react-portfolio/static/js/main.021a2535.js.map"
+    "main.css": "/potential-fiesta/static/css/main.2ab11513.css",
+    "main.js": "/potential-fiesta/static/js/main.1016034a.js",
+    "static/media/marvelDatabase.png": "/potential-fiesta/static/media/marvelDatabase.f80233280bce11fd40b9.png",
+    "static/media/navbar.jpg": "/potential-fiesta/static/media/navbar.bd0272c891fef8c342f2.jpg",
+    "static/media/profile-pic.JPG": "/potential-fiesta/static/media/profile-pic.f2fbe9d15c537f4e6e50.JPG",
+    "static/media/starWars.png": "/potential-fiesta/static/media/starWars.d7ade0f6f2cf05981fa8.png",
+    "static/media/workdayScheduler.png": "/potential-fiesta/static/media/workdayScheduler.898f5c50af9c30d83143.png",
+    "static/media/passwordGenerator.png": "/potential-fiesta/static/media/passwordGenerator.d42dbbf00a3a0c7a2ef8.png",
+    "static/media/noteTaker.png": "/potential-fiesta/static/media/noteTaker.4c8c3cd6ab703b209c63.png",
+    "static/media/pokedex.png": "/potential-fiesta/static/media/pokedex.5ae946def886ee06b2f0.png",
+    "static/media/2021 Twitter logo - white.png": "/potential-fiesta/static/media/2021 Twitter logo - white.27cda7bdfce3369a30e8.png",
+    "index.html": "/potential-fiesta/index.html",
+    "main.2ab11513.css.map": "/potential-fiesta/static/css/main.2ab11513.css.map",
+    "main.1016034a.js.map": "/potential-fiesta/static/js/main.1016034a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fffdee2.css",
-    "static/js/main.021a2535.js"
+    "static/css/main.2ab11513.css",
+    "static/js/main.1016034a.js"
   ]
 }
